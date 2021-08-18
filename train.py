@@ -1,4 +1,4 @@
-# 设置使用0号GPU卡（如无GPU，执行此代码后仍然会使用CPU训练模型）
+
 import matplotlib
 matplotlib.use('Agg') 
 import os
